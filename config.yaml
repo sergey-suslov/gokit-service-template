@@ -1,0 +1,8 @@
+DB_NAME: tasks
+DB_PASSWORD: password
+DB_USER: user
+
+METRICS_NAMESPACE: namespace
+METRICS_SUBSYSTEM: service
+
+JWT_SECRET: xxx
